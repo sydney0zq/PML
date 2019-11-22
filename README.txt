@@ -64,9 +64,7 @@ Deep learning:
 Coda:
 
     Author Chen doesnot open this project's source code, therefore I could not make sure
-    my implementation absoultely right. However, the embedding for segmentation's idea has
-    no problem cuz I mailed Author consulting some problems.
-
+    my implementation absoultely right. 
 
     The accuracy report in paper:
 
